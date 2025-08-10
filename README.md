@@ -8,7 +8,7 @@ A responsive, static front-end replica of Razorpay’s official landing page—b
 
 - **Learn and master** UI replication of a real-world payment gateway.
 - Build **responsive layouts** and clean utility-first styling with Tailwind CSS.
-- Showcase a **polished frontend** (ideal for portfolios and interviews).
+- Showcase a **polished frontend**.
 
 ---
 
